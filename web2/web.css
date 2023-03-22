@@ -1,0 +1,159 @@
+.cakeicon{   
+
+    margin-top: 53px;
+    margin-left: 53px;
+}
+
+.main{
+    background-color: azure;
+}
+.lang{
+    text-align: right;
+    padding-right: 100px;
+    padding-top: 1px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+
+.set1{
+    display: flex;
+   align-items: center;
+   justify-content: center;
+   font-family: Arial, Helvetica, sans-serif;  
+}
+.phoneicon{
+    display: flex;
+    text-align: left;
+}
+.line{
+    color: rgba(14, 1, 5, 0.279);
+
+    align-items: center;
+    
+} 
+
+.feature-new-videos{
+    margin-left: 400px;
+    margin-top: 200px;
+}
+ 
+.title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    padding-bottom: 20px;
+}
+.desc{
+    font-family: Arial;
+    font-size: 30px; 
+}
+.logo{
+    padding-top: 30px;
+}
+.videos{
+    float: right;
+    margin-top: 150px;
+margin-right: 50px;
+}
+.line{
+    width: 100%;
+    height: 155px;
+    text-align: center;
+  
+    padding-bottom: 200px;
+    background-color: rgba(255, 70, 135, 1);
+}
+
+.icons{
+    padding-top: 300px;
+    text-align: center;
+    margin-bottom: 50px;
+    
+}
+.icons1{
+    margin-left: 150px;
+}
+
+.lang1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+ .icon2{
+    float: left;
+    padding-inline: 80px;
+    justify-content: space-between;
+    
+ }
+ .icon2{
+    margin-left: 100px;
+      
+   }   
+.img2{
+    margin-top: 200px;
+    float: left;
+    padding-left: 200px;
+}
+.img3{
+    margin-top: 200px;
+    float: left; 
+    padding-left: 300px;
+}
+.icon1{
+    float: left;
+    padding-left: 350px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.text1{
+    float: left;
+}
+.text1a{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.imgll{
+    display: flex;
+    padding-top: 150px;
+    margin-right: 100px;
+}
+.img4{
+    padding-left: 200px;
+}
+.icon3{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.iconsa{
+float: left;
+margin-top: 100px;
+}
+.icons1a{
+    margin-left: 200px;
+}
+.texts{
+   display: inline;
+margin-top: 100px;
+text-align: center;
+}
+.foot {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 400px;
+   width: 100%;
+   background-color: aliceblue;
+  }
+  
+  .fimg {
+    margin-top: 200px;
+    max-width: 100%;
+    max-height:100%;
+    margin-right: 200px;
+   
+  }
+  
+  .ftext {
+    margin-top: 200px;
+    font-size: 25px;
+    padding-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 100px;
+  }
